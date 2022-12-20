@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-using System;
+﻿using System;
 
 static float GetAverageScore(int[] marks)
 {
@@ -89,7 +87,6 @@ Console.WriteLine("Минимальная отметка Nik");
 Console.WriteLine(nikminmark);
 Console.WriteLine("Максимальная отметка Nik");
 Console.WriteLine(nikmaxmark);
-
 
 int[] EgorMarks = {10, 9, 8, 7, 6, 8, 9, 10, 10, 10 };
 
