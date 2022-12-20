@@ -99,4 +99,3 @@ Console.WriteLine("Минимальная отметка Egor");
 Console.WriteLine(egorminmark);
 Console.WriteLine("Максимальная отметка Egor");
 Console.WriteLine(egormaxmark);
-
